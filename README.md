@@ -5,7 +5,5 @@ How does my web-page look like?
 https://mamartam.github.io/3-column-preview-card-component/
 
 # desctop 
-<a href="images/full-screen-view.png" alt="desctop-view">
+![image_alt](https://github.com/mamartam/3-column-preview-card-component/blob/main/images/full-screen-view.png?raw=true)
 
-# mobile
-<a href="images/mobile-screen-view.png" alt="desctop-view">
