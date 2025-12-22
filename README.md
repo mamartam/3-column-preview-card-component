@@ -7,3 +7,6 @@ https://mamartam.github.io/3-column-preview-card-component/
 # desctop 
 ![image_alt](https://github.com/mamartam/3-column-preview-card-component/blob/main/images/full-screen-view.png?raw=true)
 
+# mobile
+
+![image_alt](https://github.com/mamartam/3-column-preview-card-component/blob/main/images/mobile-screen-view.png?raw=true)
