@@ -4,7 +4,7 @@ This project was created based on a Frontend Mentor [https://www.frontendmentor.
 How does my web-page look like?
 https://mamartam.github.io/3-column-preview-card-component/
 
-# desctop 
+# desktop 
 ![image_alt](https://github.com/mamartam/3-column-preview-card-component/blob/main/images/full-screen-view.png?raw=true)
 
 # mobile
