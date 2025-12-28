@@ -101,4 +101,8 @@ button:focus-visible {
     border-bottom-right-radius: 10px;
   }
 }
-
+@media (prefers-reduced-motion: reduce) {
+  button {
+    transition: none;
+  }
+}
